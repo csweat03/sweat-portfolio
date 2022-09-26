@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import IntroText from './component/IntroText'
+import LargeButton from './component/LargeButton'
 
 const styles = {
   container: {
@@ -30,6 +31,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <IntroText />
+        <LargeButton x="100" y="200" scale="3" text="Text" link="https://www.google.com" />
       </main>
     </div>
   )

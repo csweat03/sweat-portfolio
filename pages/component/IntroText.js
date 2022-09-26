@@ -1,4 +1,9 @@
 const styles = {
+  introText: {
+    "margin": "auto",
+    "float": "left",
+    "padding": "40vh 6.25vw"
+  },
   h1: {
     "letter-spacing": "0px",
     "font-size": "3vw",
@@ -12,11 +17,6 @@ const styles = {
   },
   accent: {
     "color": "#0070f3"
-  },
-  introText: {
-    "margin": "auto",
-    "float": "left",
-    "padding": "40vh 6.25vw"
   }
 }
 
