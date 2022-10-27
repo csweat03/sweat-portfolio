@@ -5,3 +5,4 @@ export default function AnimArrow() {
         <div className={styles.downarrow}></div>
     );
 }
+

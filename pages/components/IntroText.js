@@ -6,7 +6,7 @@ const styles = {
   },
   h1: {
     "letterSpacing": "0px",
-    "fontSize": "3vw",
+    "fontSize": "3vh",
     "margin": "2px"
   },
   h3: {
