@@ -6,12 +6,12 @@ const styles = {
   },
   h1: {
     "letterSpacing": "0px",
-    "fontSize": "calc(15px + 0.390625vw)",
+    "fontSize": "calc(24px + 0.390625vw)",
     "margin": "2px"
   },
   h3: {
     "letterSpacing": "1px",
-    "fontSize": "calc(13px + 0.390625vw)",
+    "fontSize": "calc(16px + 0.390625vw)",
     "margin": "2px",
     "fontWeight": "600",
     "textShadow": "0px 1px #0070f3"
